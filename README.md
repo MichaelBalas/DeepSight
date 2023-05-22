@@ -6,6 +6,8 @@ This repository contains the open-source code for real-time iris depth estimatio
 
 The method presented exploits the constant physical size of the human iris to estimate the distance between the observer and the screen using a standard RGB camera. Furthermore, this repository also includes a script to calculate real-world iris size based on images or videos taken at known distances, potentially enhancing the accuracy of depth estimation.
 
+![Michael Balas (study author) testing DeepSight Iris Depth Estimation software](DeepSight.gif)
+
 ## Installation
 ### Prerequisites
 Ensure you have the following installed on your machine:
