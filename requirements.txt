@@ -1,0 +1,5 @@
+mediapipe==0.9.1.0
+numpy==1.23.2
+opencv_python==4.7.0.68
+Pillow==9.5.0
+tensorflow==2.12.0
